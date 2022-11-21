@@ -4,6 +4,33 @@
 <head>
 
 <meta charset="UTF-8">
-
-
+<link rel="stylesheet"href="intex.css">
 </head>
+
+<body> 
+    
+<header>
+
+<img class="imagem2" src="imagem2.animais"
+
+</header>
+
+<main>
+  <h1> COMO PODEMOS AJUDAR:</h1>
+ 
+  <P>1-Ajude financeiramente.
+  2-Doe itens que seu pet não usa mais.
+  3-Faça doação de ração e medicamentos.
+  4-Seja voluntário em uma ONG.
+  5-Cuide de um animal temporariamente em sua casa.
+  6-Castre seu pet e evite gestações indesejadas.
+  7-Vacine seu pet todos os anos.
+  8-Fale sobre vacinação e castração com amigos e parentes</P>
+
+
+</main>
+
+
+</body>
+
+
