@@ -2,18 +2,21 @@
 <html long="pt-br">
 
 <head>
-
+<title> site do abandono de animais</title>
 <meta charset="UTF-8">
 <link rel="stylesheet"href="intex.css">
+
 </head>
 
 <body> 
     
-<header>
 
-<img class="imagem2" src="imagem2.animais"
+  <header> 
 
-</header>
+ <img class="imagem2" src="imagem2.animais">
+  
+  </header> 
+
 
 <main>
   <h1> COMO PODEMOS AJUDAR:</h1>
@@ -27,6 +30,9 @@
   7-Vacine seu pet todos os anos.
   8-Fale sobre vacinação e castração com amigos e parentes</P>
 
+
+  <P> Sem dúvidas, castrar, vacinar e registrar esses animais de rua seria o primeiro passo para dar a eles maior qualidade de 
+  vida e controlar a população de cães de rua que cresce desenfreadamente no nosso país.</P>
 
 </main>
 
